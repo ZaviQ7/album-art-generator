@@ -1,0 +1,37 @@
+{
+  "rock": [
+    "grunge",
+    "electric guitar",
+    "neon lights",
+    "stadium crowd",
+    "distressed texture"
+  ],
+  "jazz": [
+    "saxophone",
+    "smoky bar",
+    "sepia tone",
+    "double bass",
+    "soft spotlight"
+  ],
+  "pop": [
+    "vibrant colors",
+    "glossy finish",
+    "abstract shapes",
+    "high contrast",
+    "retro 80s"
+  ],
+  "hiphop": [
+    "graffiti",
+    "urban skyline",
+    "bold typography",
+    "gold chains",
+    "boom box"
+  ],
+  "classical": [
+    "orchestra",
+    "baroque frame",
+    "vintage illustration",
+    "sheet music",
+    "gold leaf"
+  ]
+}
